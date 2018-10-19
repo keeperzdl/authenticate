@@ -18,8 +18,6 @@ from datetime import date
 import json
 import requests
 
-print "test"
-
 class DataSwitch():
     '''
     数据交换
